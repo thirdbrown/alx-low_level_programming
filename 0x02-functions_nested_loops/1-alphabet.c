@@ -1,8 +1,10 @@
 #include "main.h"
 
 /**
- * print _alphabet - print the alphabeth in lower case
+ * main - Entry point
+ * Description: print alphabeth using _putchar
  */
+
 void print_alphabet(void)
 {
 	char la;
