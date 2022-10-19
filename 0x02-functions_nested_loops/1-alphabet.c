@@ -1,12 +1,9 @@
 #include "main.h"
 
 /**
- * main - Entry point
- * Description: print alphabeth using _putchar
+ * print_alphabet - prints the alpha in lowercase
  */
-
 void print_alphabet(void)
-
 {
 	char la;
 
